@@ -163,3 +163,4 @@ cython_debug/
 
 # Project specifc files
 *.db
+qr.png
